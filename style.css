@@ -6,11 +6,11 @@
 .header{
   flex: 15%;
   background-color: lightgreen; 
-  background: url(IMG_3662.jpeg)
-  aspect-ratio: 6/1
+  background: url("IMG_3662.jpeg") center/100%;
+  aspect-ratio: 6/1;
 }
 .menu hover {
-  flex: 5%
+  flex: 5%;
   background-color: darkgreen;
   color:lightgreen;
   display: flex;
