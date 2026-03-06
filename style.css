@@ -9,7 +9,7 @@
   background: url(IMG_3662.jpeg)
   aspect-ratio: 6/1
 }
-.menu{
+.menu hover {
   flex: 5%
   background-color: darkgreen;
   color:lightgreen;
