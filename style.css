@@ -18,7 +18,7 @@
    padding: 15px 20px;
  }
 .content{
-  flex: 70%;
+  flex: 1;
   background-color: green;
   .content iframe{
     flex: 1;
