@@ -6,7 +6,7 @@
 .header{
   flex: 15%;
   height: 180px;
-  background: url("IMG_3662.jpeg") center/cover;
+  background: url("IMG_3662.jpeg") center/80%;
   aspect-ratio: 6/1;
 }
 .menu hover {
