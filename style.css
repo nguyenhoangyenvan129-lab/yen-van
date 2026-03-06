@@ -5,7 +5,8 @@
 }
 .header{
   flex: 15%;
-  background-color: lightgreen; ur1(images/banner)
+  background-color: lightgreen; 
+  background: ur1(images/banner)
 }
 .menu{
   flex: 5%
